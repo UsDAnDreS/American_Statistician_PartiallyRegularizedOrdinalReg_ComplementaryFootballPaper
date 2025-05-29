@@ -1,0 +1,1 @@
+# American_Statistician_PartiallyRegularizedOrdinalReg_ComplementaryFootballPaper
